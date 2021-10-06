@@ -18,7 +18,7 @@ int main()
     {
         int k;
         std::cin >> k;
-        if ( k % 2 == 1 )
+        if ( std::abs(k % 2) == 1 )
             if ( !min_odd || k < min_odd )
                 min_odd = k;
     }
