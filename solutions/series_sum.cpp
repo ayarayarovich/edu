@@ -27,6 +27,5 @@ int main()
     std::cout << "Result: " << std::setprecision(999) << sum << '\n';
     std::cout << '\n';
 
-    system("pause");
     return 0;
 }

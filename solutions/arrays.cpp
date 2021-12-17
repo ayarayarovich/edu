@@ -34,6 +34,5 @@ int main()
         std::cout << brr[i] << ' ';
     std::cout << '\n';
 
-    system("pause");
     return 0;
 }

@@ -35,6 +35,5 @@ int main()
         std::cout << "Minimum odd number in the sequence is " << min_odd << '\n';
     std::cout << '\n';
 
-    system("pause");
     return 0;
 }

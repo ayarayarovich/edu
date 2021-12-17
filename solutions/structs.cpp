@@ -66,6 +66,5 @@ int main() {
     std::cout << "\tCount: " << count << '\n';
     std::cout << '\n';
 
-    system("pause");
     return 0;
 }
